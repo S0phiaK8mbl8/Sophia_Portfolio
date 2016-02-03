@@ -1,0 +1,56 @@
+/*COLOR PALLETTE
+dark green: #37392E
+light green: #646F4B
+purple: #30011E
+light purple: #DDCECD
+eggshell: #EEE5E5;
+*/
+
+
+body {
+	background-color: #DDCECD;
+	font-family: "Scheherazade", serif;
+	text-align: center;
+}
+
+
+/*Header*/
+
+div.logo {
+	text-align: left;
+	margin-left: 30px;
+	button
+}
+
+/*Ask n instructor about calling classes here!*/
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #2E2C2F;
+font-color: #646F4B;
+float: right;
+margin-right: 40px;
+}
+
+li {
+	float: left;
+	margin-left: 50px;
+	padding-left: 135px;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 12px 16px;
+	text-decoration: none;
+	float: left;
+	margin-left:0px;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
